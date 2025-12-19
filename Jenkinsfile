@@ -39,7 +39,7 @@ pipeline {
                 }
             }
         }
-        stages {
+        
         stage('Check Status'){
             steps{
                 script{
